@@ -1612,6 +1612,24 @@
       "homepage": "https://github.com/PosvdM/cpa-plugin-lamplighter",
       "license": "AGPL-3.0-or-later",
       "tags": ["Management", "Quota", "Notification", "Codex", "Claude", "Antigravity"]
+    },
+    {
+      "id": "cpa-provider-nexus",
+      "name": "CPA Provider Nexus",
+      "description": "Adds Kiro, Cline, and WorkBuddy CN/Intl providers to CLIProxyAPI with OAuth, model catalogs, streaming and non-streaming OpenAI Chat Completions, quota reporting, and a static console UI backed by Management-key-protected APIs.",
+      "author": "ViceEye",
+      "repository": "https://github.com/ViceEye/cpa-provider-nexus",
+      "logo": "https://raw.githubusercontent.com/ViceEye/cpa-provider-nexus/main/internal/provider/console-ui/src/assets/nexus.svg",
+      "homepage": "https://github.com/ViceEye/cpa-provider-nexus",
+      "license": "AGPL-3.0-or-later",
+      "tags": [
+        "Provider",
+        "Kiro",
+        "Cline",
+        "WorkBuddy",
+        "OAuth",
+        "Management"
+      ]
     }
   ]
 }
